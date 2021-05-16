@@ -129,7 +129,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [229, 220]
+    coordinate: [229, 223]
     rotation: 0
     state: true
 - name: blocks_throttle_0
@@ -148,7 +148,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [467, 256]
+    coordinate: [467, 257]
     rotation: 0
     state: true
 - name: limesdr_sink_0_0
@@ -262,7 +262,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [751, 298]
+    coordinate: [753, 302]
     rotation: 0
     state: true
 
